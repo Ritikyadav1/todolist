@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #4361ee;
+  --color-brand-dark: #283d9e;
+  --color-brand-soft: #eef1ff;
+  --color-danger: #e5484d;
+  --color-danger-soft: #ffe4e4;
+}
+
+body {
+  background: #f1f3f9;
+}
